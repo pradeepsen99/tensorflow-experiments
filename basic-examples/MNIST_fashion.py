@@ -1,6 +1,6 @@
 '''
 This is my interpretation from the google's version of Tensorflow documentation. 
-Derived from https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb#scrollTo=7MqDQO0KCaWS
+Derived from https://www.tensorflow.org/tutorials/keras/classification
 '''
 
 import tensorflow as tf
